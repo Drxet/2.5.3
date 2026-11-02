@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Анкета</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="middle_name">Отчество</string>
+    <string name="birth_year">Год</string>
+    <string name="school">Школа</string>
+    <string name="city">Город</string>
+    <string name="programming_experience">Опыт программирования</string>
+    <string name="programming_languages">Знание языков программирования</string>
+</resources>
